@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Anshul036/Leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Anshul036/Leetcode/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
@@ -22,9 +23,11 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anshul036/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anshul036/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Anshul036/Leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anshul036/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anshul036/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Anshul036/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
