@@ -74,6 +74,7 @@
 | [0234-palindrome-linked-list](https://github.com/Anshul036/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Anshul036/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Anshul036/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Anshul036/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -82,8 +83,10 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anshul036/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Anshul036/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anshul036/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Anshul036/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
