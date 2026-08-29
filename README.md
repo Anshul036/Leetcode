@@ -76,10 +76,12 @@
 | [0496-next-greater-element-i](https://github.com/Anshul036/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anshul036/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Anshul036/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Anshul036/Leetcode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Anshul036/Leetcode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/Anshul036/Leetcode/tree/master/0901-online-stock-span) |
 ## Array
 |  |
 | ------- |
@@ -92,4 +94,9 @@
 | [0496-next-greater-element-i](https://github.com/Anshul036/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anshul036/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Anshul036/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Anshul036/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Anshul036/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
