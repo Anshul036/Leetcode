@@ -21,6 +21,7 @@
 | [0206-reverse-linked-list](https://github.com/Anshul036/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anshul036/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Anshul036/Leetcode/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/Anshul036/Leetcode/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0143-reorder-list](https://github.com/Anshul036/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anshul036/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Anshul036/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Anshul036/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Anshul036/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Anshul036/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anshul036/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anshul036/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## String
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Anshul036/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
