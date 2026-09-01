@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anshul036/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshul036/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anshul036/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Anshul036/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anshul036/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -134,6 +135,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anshul036/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anshul036/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Anshul036/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshul036/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Anshul036/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anshul036/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshul036/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -167,6 +169,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anshul036/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anshul036/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Anshul036/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshul036/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Anshul036/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anshul036/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshul036/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -192,4 +195,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Anshul036/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshul036/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshul036/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
