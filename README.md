@@ -10,6 +10,7 @@
 | [0326-power-of-three](https://github.com/Anshul036/Leetcode/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/Anshul036/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshul036/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Anshul036/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0503-next-greater-element-ii](https://github.com/Anshul036/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Anshul036/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Anshul036/Leetcode/tree/master/0739-daily-temperatures) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Anshul036/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
