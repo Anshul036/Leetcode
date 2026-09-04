@@ -107,6 +107,7 @@
 | [0735-asteroid-collision](https://github.com/Anshul036/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Anshul036/Leetcode/tree/master/0739-daily-temperatures) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anshul036/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Anshul036/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -230,4 +231,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshul036/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Anshul036/Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
